@@ -16,5 +16,5 @@ B.Tech CSE Student at UPES
 Python | Pandas | NumPy | Scikit-learn | XGBoost | Streamlit | Docker | GCP
 
 ## Connect
-LinkedIn: ...
-Email: ...
+LinkedIn: https://www.linkedin.com/in/arjit-pathak-57b032374/
+Email: arjitpathak805@gmail.com
