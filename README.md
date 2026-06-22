@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Arjit Pathak
 
-<!--
-**Arjit184/Arjit184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE Student at UPES
 
-Here are some ideas to get you started:
+## Interests
+- Artificial Intelligence
+- Machine Learning
+- Data Analysis
+- Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Sleep Apnea Severity Prediction
+- Vehicle Surveillance System
+
+## Skills
+Python | Pandas | NumPy | Scikit-learn | XGBoost | Streamlit | Docker | GCP
+
+## Connect
+LinkedIn: ...
+Email: ...
